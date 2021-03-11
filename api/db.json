@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "google",
+      "description": "find me",
+      "id": 1
+    },
+    {
+      "title": "new stream",
+      "description": "this is my new stream",
+      "id": 2
+    },
+    {
+      "title": "new stream",
+      "description": "this is my new stream",
+      "id": 3
+    },
+    {
+      "title": "new stream",
+      "description": "this is my new stream",
+      "id": 4
+    },
+    {
+      "title": "prog nav",
+      "description": "navkkkkkkkkkkkkkkkkkkkkk",
+      "id": 11
+    },
+    {
+      "title": "testing sdlfjslfjslfdj",
+      "description": "lsdjf;lsjfslkdfjlskfjslfj",
+      "userId": "105643042071965564617",
+      "id": 12
+    },
+    {
+      "title": "new stream here000000000000000000",
+      "description": "sdfsdfdsfsdgdfgk[dfglkdf'",
+      "userId": "105643042071965564617",
+      "id": 13
+    }
+  ]
+}
